@@ -1,0 +1,14 @@
+Input:
+6
+hello
+world
+hello
+germany
+hello
+berlin
+
+Output: 
+hello, 3
+world, 1
+germany, 1
+berlin, 1
